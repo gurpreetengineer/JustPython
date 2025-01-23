@@ -13,7 +13,6 @@ def checkAgeCriteria (inputAge):
   else:
     print('Please enter the age in Numbers');
 
-
 inputAge = input('Please enter your age: ');
 
 try:
