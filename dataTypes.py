@@ -1,5 +1,9 @@
 # Dictionary/Maps - SIMILAR TO JAVASCRIPT DICTIONARY
 
+person = {'name': 'Alice', 'age': 25, 'city': 'New York'}
+
+print(f'{list(person.items())[0]}')
+
 # TUPLE - once value is fixed, we can't change it.
 
 pi_tuple = (1,2,3,4,5);
